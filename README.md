@@ -1,2 +1,4 @@
-# IdeaConf
-Idea conf files
+# Some software conf files for me
+-- Idea
+-- atom
+
